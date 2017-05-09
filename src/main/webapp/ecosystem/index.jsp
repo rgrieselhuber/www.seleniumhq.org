@@ -36,6 +36,10 @@
             <a rel="nofollow" href="https://crossbrowsertesting.com/">CrossBrowserTesting</a> -
             test Selenium on 1000+ browsers and devices in the cloud.
         </li>
+        <li>
+            <a rel="nofollow" href="https://functionize.com/">Functionize</a> -
+            AI-powered, Selenium-based testing in the cloud.
+        </li>
     </ul>
 
     <h2>Monitoring &amp; Load Testing Services</h2>
